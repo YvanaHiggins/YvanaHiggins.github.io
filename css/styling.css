@@ -113,6 +113,24 @@ figure {
   transition: all 120ms ease;
 }
 
+.opener {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 2rem;
+  padding-bottom: 6rem;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.05);
+  background-color: #fff;
+}
+
 .opener-text-box {
   width: 50%;
   padding-right: 0%;
